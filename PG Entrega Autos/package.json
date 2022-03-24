@@ -1,0 +1,22 @@
+{
+  "name": "paquete1",
+  "version": "1.0.0",
+  "description": "Comenzando NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ejemplo",
+    "paquete",
+    "init",
+    "DG"
+  ],
+  "author": "Gus",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {}
+}

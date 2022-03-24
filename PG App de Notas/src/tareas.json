@@ -1,0 +1,22 @@
+[
+{
+    "titulo": "Harry Potter",
+    "estado": "terminada"
+},
+{
+    "titulo": "Libro 2",
+    "estado": "en progreso"
+},
+{
+    "titulo": "Libro 3",
+    "estado": "pendiente"
+},
+{
+    "titulo": "Libro 4",
+    "estado": "en progreso"
+},
+{
+    "titulo": "Libro 5",
+    "estado": "terminada"
+}
+]
